@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    list-style: none;
+    text-decoration: none;
+}
+
+body{
+    line-height: 1.5;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#dev_text {
+    color: #fff;
+}
